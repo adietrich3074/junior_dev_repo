@@ -1,0 +1,101 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: #f5f7ff;
+  background-color: #111827;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #10192e 0%, #111827 100%);
+}
+
+.app-shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 1rem 3rem;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.2rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.hero {
+  border: 1px solid #334155;
+  border-radius: 18px;
+  padding: 1.4rem;
+  background: linear-gradient(135deg, #7c3aed 0%, #0891b2 100%);
+  margin-bottom: 1.5rem;
+}
+
+.hero h2 {
+  margin: 0 0 0.4rem;
+}
+
+.hero p {
+  margin: 0;
+}
+
+.section-header {
+  margin: 1rem 0;
+}
+
+.section-header h2 {
+  margin: 0 0 0.3rem;
+}
+
+.section-header p {
+  margin: 0;
+  color: #cbd5e1;
+}
+
+.try-next {
+  margin: 0.2rem 0 1rem;
+  color: #bfdbfe;
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.showcase-block {
+  margin-bottom: 1.25rem;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 1rem;
+  background: #0b1220;
+}
+
+.showcase-block h3 {
+  margin-top: 0;
+}
+
+.showcase-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
