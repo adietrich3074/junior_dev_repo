@@ -24,8 +24,6 @@ function CarsPage({ items }) {
     );
   };
 
-  console.log("visibleCars", visibleCars);
-
   return (
     <main>
       <SectionHeader
