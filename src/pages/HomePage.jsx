@@ -6,7 +6,7 @@ function HomePage({ themes, onOpenTheme }) {
   return (
     <main>
       <section className="hero">
-        <h2>Build Fun UI While You Learn React</h2>
+        <h2>Build Fun UI While You Learn React 67magnus711</h2>
         <p>
           Pick a theme, inspect the components, and see how the same building blocks create totally
           different pages.

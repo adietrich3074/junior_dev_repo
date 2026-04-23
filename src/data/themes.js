@@ -125,6 +125,14 @@ export const sportsItems = [
       "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?auto=format&fit=crop&w=900&q=80",
     category: "Individual",
   },
+  {
+    id: "sport-7",
+    title:"Hockey",
+    description: "You have to shoot the puck into the goalllllllllll to win",
+    imageUrl:
+      "https://media.istockphoto.com/id/487831808/photo/ice-hockey-players-in-action.jpg?s=612x612&w=0&k=20&c=DLmI2DWkZHIKydciNoyQb9KaQavoz5gUlj96QrSuyiY=",
+    category: "Team",
+  },
 ];
 
 export const gameItems = [
