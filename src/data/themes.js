@@ -29,7 +29,7 @@ export const carItems = [
   {
     id: "car-1",
     title: "2015 Dodge Challenger SXT",
-    description: "A modern muscle coupe known for classic styling and strong straight-line power.",
+    description: "A modern muscle coupe known for classic styling and strong straight-line power 357 speed 156 good for drag racing.",
     imageUrl:
       "https://commons.wikimedia.org/wiki/Special:FilePath/2015_Dodge_Challenger_SXT.jpg",
     category: "Fast",
@@ -37,7 +37,7 @@ export const carItems = [
   {
     id: "car-2",
     title: "Ford Mustang GT",
-    description: "An iconic American performance car with rear-wheel drive and a powerful V8 option.",
+    description: "An iconic American performance car with rear-wheel drive and a powerful V8 option speed 178 good for drag racing.",
     imageUrl:
       "https://commons.wikimedia.org/wiki/Special:FilePath/Ford_Mustang_GT%2C_20.5.2017_(33).jpg",
     category: "Utility",
@@ -45,7 +45,7 @@ export const carItems = [
   {
     id: "car-3",
     title: "2020 Chevrolet Corvette C8",
-    description: "A mid-engine Corvette that combines everyday usability with supercar-style performance.",
+    description: "A mid-engine Corvette that combines everyday usability with supercar-style performance speed 198 good for racing.",
     imageUrl:
       "https://commons.wikimedia.org/wiki/Special:FilePath/2020_Chevrolet_Corvette_(C8)_front_view.jpg",
     category: "Eco",
@@ -53,7 +53,7 @@ export const carItems = [
   {
     id: "car-4",
     title: "Lamborghini Aventador SVJ",
-    description: "A high-end V12 supercar known for extreme performance and striking design.",
+    description: "A high-end V12 supercar known for extreme performance and striking design speeed 198 good for racing.",
     imageUrl:
       "https://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini_Aventador_SVJ_(48271230426).jpg",
     category: "Fast",
@@ -61,7 +61,7 @@ export const carItems = [
   {
     id: "car-5",
     title: "Ferrari SF90 Stradale",
-    description: "A premium plug-in hybrid supercar that blends Ferrari speed with advanced tech.",
+    description: "A premium plug-in hybrid supercar that blends Ferrari speed with advanced tech speed 200 good car for the racing.",
     imageUrl:
       "https://commons.wikimedia.org/wiki/Special:FilePath/Ferrari_SF90_Stradale_1.jpg",
     category: "Eco",
@@ -69,7 +69,7 @@ export const carItems = [
   {
     id: "car-6",
     title: "McLaren 720S",
-    description: "A lightweight British supercar celebrated for handling precision and speed.",
+    description: "A lightweight British supercar celebrated for handling precision and speed 189 good for racing.",
     imageUrl:
       "https://commons.wikimedia.org/wiki/Special:FilePath/2017_McLaren_720S.jpg",
     category: "Fast",
@@ -77,7 +77,7 @@ export const carItems = [
   {
     id: "car-7",
     title: "1999 Skyline GT-R ",
-    description: "The car is very fast and has a great body shape and has good steering control.",
+    description: "The car is very fast and has a great body shape. It also has good steering control, it's a heavy car and the skyline car speed is 168mph. It is a japanese model that costs about $234,534! The skyline is good for drag racing.",
     imageUrl:
       "https://www.supercars.net/blog/wp-content/uploads/2016/02/IMG_9838-6-copy-1536x1024.jpg",
     category: "Fast",
