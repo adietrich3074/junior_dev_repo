@@ -15,13 +15,13 @@
 }
 
 .btn-primary {
-  background: #22d3ee;
-  color: #082f49;
+  background: #e54242;
+  color: #2c0849;
 }
 
 .btn-secondary {
-  background: #c4b5fd;
-  color: #312e81;
+  background: #f8fdb5;
+  color: #81732e;
 }
 
 .btn-ghost {
@@ -55,8 +55,8 @@
 
 .card,
 .hub-card {
-  border: 1px solid #334155;
-  background: #0f172a;
+  border: 1px solid #063576;
+  background: #1900ffd3;
   border-radius: 14px;
   overflow: hidden;
 }
