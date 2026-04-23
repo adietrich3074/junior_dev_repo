@@ -112,7 +112,7 @@ export const sportsItems = [
   {
     id: "sport-4",
     title: "Baseball Practice",
-    description: "Work on batting, throwing accuracy, and team communication on the field.",
+    description: "Work on batting, throwing accuracy, and team communication on the field. You need to keep your eye on the ball.",
     imageUrl:
       "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?auto=format&fit=crop&w=900&q=80",
     category: "Team",
@@ -136,7 +136,7 @@ export const sportsItems = [
   {
     id: "sport-7",
     title:"Hockey",
-    description: "You have to shoot the puck into the goalllllllllll to win",
+    description: "You have to shoot the puck into the goallllllllllls to win. You need to use a hockey stick to move the puck.",
     imageUrl:
       "https://media.istockphoto.com/id/487831808/photo/ice-hockey-players-in-action.jpg?s=612x612&w=0&k=20&c=DLmI2DWkZHIKydciNoyQb9KaQavoz5gUlj96QrSuyiY=",
     category: "Team",
