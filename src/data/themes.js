@@ -74,6 +74,14 @@ export const carItems = [
       "https://commons.wikimedia.org/wiki/Special:FilePath/2017_McLaren_720S.jpg",
     category: "Fast",
   },
+  {
+    id: "car-7",
+    title: "1999 Skyline GT-R ",
+    description: "The car is very fast and has a great body shape and has good steering control.",
+    imageUrl:
+      "https://www.supercars.net/blog/wp-content/uploads/2016/02/IMG_9838-6-copy-1536x1024.jpg",
+    category: "Fast",
+  },
 ];
 
 export const sportsItems = [
