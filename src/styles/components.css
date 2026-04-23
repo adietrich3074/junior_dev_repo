@@ -15,18 +15,18 @@
 }
 
 .btn-primary {
-  background: #22d3ee;
-  color: #082f49;
+  background: #000000;
+  color: #ffffff;
 }
 
 .btn-secondary {
-  background: #c4b5fd;
-  color: #312e81;
+  background: #b00101;
+  color: #ffffff;
 }
 
 .btn-ghost {
-  background: #1e293b;
-  color: #e2e8f0;
+  background: #0000006b;
+  color: #a70000;
   border: 1px solid #475569;
 }
 
@@ -39,17 +39,17 @@
 }
 
 .badge-neutral {
-  background: #334155;
+  background: #553333;
   color: #e2e8f0;
 }
 
 .badge-accent {
-  background: #155e75;
+  background: #751515;
   color: #cffafe;
 }
 
 .badge-success {
-  background: #166534;
+  background: #280000;
   color: #dcfce7;
 }
 

@@ -4,11 +4,13 @@ import Card from "../components/Card";
 import FeatureGrid from "../components/FeatureGrid";
 import SectionHeader from "../components/SectionHeader";
 
-const filters = ["All", "Fast", "Utility", "Eco"];
-
 function CarsPage({ items }) {
   const [activeFilter, setActiveFilter] = useState("All");
   const [favorites, setFavorites] = useState([]);
+  const filters = useMemo(
+    () => ["All", ...Array.from(new Set(items.map((item) => item.category))).sort()],
+    [items]
+  );
 
   const visibleCars = useMemo(() => {
     if (activeFilter === "All") {

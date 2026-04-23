@@ -11,7 +11,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(180deg, #10192e 0%, #111827 100%);
+  background: linear-gradient(180deg, #000000 0%, #ff0404 100%);
 }
 
 .app-shell {
@@ -86,7 +86,7 @@ body {
   border: 1px solid #334155;
   border-radius: 12px;
   padding: 1rem;
-  background: #0b1220;
+  background: #29292994;
 }
 
 .showcase-block h3 {
