@@ -184,4 +184,12 @@ export const gameItems = [
       "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/header.jpg",
     category: "Action RPG",
   },
+  {
+    id: "game-7",
+    title: "Pokemon Scarlet & Violet",
+    description: "An open-world RPG where you catch, train, and battle Pokemon in a vast, colorful world.",
+    imageUrl:
+      "https://scarletviolet.pokemon.com/_images/home/header-medium-up-2x.jpg",
+    category: "Adventure RPG",
+  },
 ];
