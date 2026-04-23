@@ -1,13 +1,13 @@
 .btn {
   border: 0;
-  border-radius: 10px;
-  padding: 0.55rem 0.95rem;
+  border-radius: 0px;
+  padding: 0.67rem 1em;
   cursor: pointer;
   font-weight: 600;
 }
 
 .btn-sm {
-  font-size: 0.85rem;
+  font-size: 0.97rem;
 }
 
 .btn-md {
@@ -15,19 +15,19 @@
 }
 
 .btn-primary {
-  background: #000000;
-  color: #ffffff;
+  background: #22ccee;
+  color: #0015ff;
 }
 
 .btn-secondary {
-  background: #b00101;
-  color: #ffffff;
+  background: #c4b5fd;
+  color: #4e4c82;
 }
 
 .btn-ghost {
-  background: #0000006b;
-  color: #a70000;
-  border: 1px solid #475569;
+  background: #c8ff00;
+  color: #8800ff;
+  border: 1px solid #3cff00;
 }
 
 .badge {
@@ -39,24 +39,24 @@
 }
 
 .badge-neutral {
-  background: #553333;
-  color: #e2e8f0;
+  background: #00ffd5;
+  color: #ff0090;
 }
 
 .badge-accent {
-  background: #751515;
-  color: #cffafe;
+  background: #a200ff;
+  color: #000000;
 }
 
 .badge-success {
-  background: #280000;
-  color: #dcfce7;
+  background: #00ff62;
+  color: #fff700;
 }
 
 .card,
 .hub-card {
-  border: 1px solid #334155;
-  background: #0f172a;
+  border: 1px solid #ff0000;
+  background: #004cff;
   border-radius: 14px;
   overflow: hidden;
 }
@@ -81,12 +81,12 @@
 
 .card-content p,
 .hub-card-content p {
-  color: #cbd5e1;
+  color: #000000;
 }
 
 .card-meta {
   display: flex;
-  gap: 0.45rem;
+  gap: 0.47rem;
   align-items: center;
   margin-bottom: 0.4rem;
 }
