@@ -1,7 +1,7 @@
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  color: #ff6200;
-  background-color: #0051ff;
+  color: #f5f7ff;
+  background-color: #111827;
 }
 
 * {
@@ -11,7 +11,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(180deg, #09cfe1c4 0%, #0ad51f 100%);
+  background: linear-gradient(180deg, #10192e 0%, #111827 100%);
 }
 
 .app-shell {
@@ -35,10 +35,10 @@ body {
 }
 
 .hero {
-  border: 1px solid #000000;
+  border: 1px solid #334155;
   border-radius: 18px;
   padding: 1.4rem;
-  background: linear-gradient(135deg, #5d00ff 0%, #00ccff 100%);
+  background: linear-gradient(135deg, #7c3aed 0%, #0891b2 100%);
   margin-bottom: 1.5rem;
 }
 
@@ -60,12 +60,12 @@ body {
 
 .section-header p {
   margin: 0;
-  color: #ff00bb;
+  color: #cbd5e1;
 }
 
 .try-next {
   margin: 0.2rem 0 1rem;
-  color: #00ff00;
+  color: #bfdbfe;
 }
 
 .filter-row {
@@ -83,10 +83,10 @@ body {
 
 .showcase-block {
   margin-bottom: 1.25rem;
-  border: 1px solid #ff00c3;
+  border: 1px solid #334155;
   border-radius: 12px;
   padding: 1rem;
-  background: #fff200;
+  background: #0b1220;
 }
 
 .showcase-block h3 {
