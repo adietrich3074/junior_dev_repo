@@ -200,4 +200,12 @@ export const gameItems = [
       "https://scarletviolet.pokemon.com/_images/home/header-medium-up-2x.jpg",
     category: "Adventure RPG",
   },
+  {
+    id: "game-8",
+    title: "God of War Ragnarok",
+    description: "A combat focused vast action adventure with a story following the journey of a father and son facing a wide variety of monsters,creatures, and norse gods",
+    imageUrl:
+      "https://theculturednerd.org/wp-content/uploads/2021/06/Cyborg-2.jpg",
+    category: "Acton/Adventure RPG",
+  },
 ];
